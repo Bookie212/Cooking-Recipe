@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/My-Blog"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Cooking Recipe"
+	}
+}
