@@ -366,6 +366,12 @@ nav ul {
     cursor: pointer;
   }
 
+  .ads {
+    background-color: white;
+    border-radius: 0;
+    padding: 0;
+  }
+
   .recipes-food-container img {
     width: 100%;
     height: 100%;
